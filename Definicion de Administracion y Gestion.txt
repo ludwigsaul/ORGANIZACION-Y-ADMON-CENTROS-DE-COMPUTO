@@ -1,0 +1,5 @@
+Diferencia entre administracion y gestion
+
+Si para manipular un recurso solo e requiere el minimo conocimiento acerca de él se esta hablando de administracion, 
+no obstante si se requiere tener amplios conocimientos acerca de él se esta hablando de gestion.
+El adminitrador dirige la manipulacion de los recursos mientras el gestor es quien efectua la ccion.
